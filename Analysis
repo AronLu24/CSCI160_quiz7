@@ -1,0 +1,12 @@
+Running Time in Algorithms:
+
+Time Complexity:
+The time complexity of the insertion sort algorithm is O(n^2) in the worst case, 
+where "n" is the number of elements in the array. This is because, for each element, 
+it may need to traverse the entire sorted portion of the array to find its correct position.
+
+Space Complexity:
+The space complexity of the insertion sort algorithm is O(1) because it 
+performs sorting in-place, i.e., it doesn't use any additional data structures 
+whose size depends on the input size. The algorithm uses only a constant amount 
+of extra space for variables like key, j, and shifts.
